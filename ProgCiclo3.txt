@@ -1,0 +1,32 @@
+https://jahir.xyz/slides-mintic
+https://discord.gg/tMt8tk9tqS
+
+MERN: MongoDB, Express, React y Node
+
+https://github.com
+https://git-scm.com/downloads
+
+HacheCe/EjerSep10
+
+Token 
+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
+
+git config --global color.ui true
+git config --global color.status auto
+git config --global color.branch auto
+git config --global format.pretty oneline
+git config --global -e
+
+
+127.0.0.1:5555/index.html
+
+browser preview
+https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk
+
+echo "# EjerSep10" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/HacheCe/EjerSep10.git
+git push -u origin main
